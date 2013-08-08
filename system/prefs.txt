@@ -1,0 +1,4 @@
+Preferences
+
+* defaults write -g ApplePressAndHoldEnabled -bool false
+** possibly requires a reboot?

@@ -1,0 +1,6 @@
+export PS1='\u@local:\w$ '
+export EDITOR=nano
+
+alias up?='ping -c 5 www.google.com'
+alias l='ls -l'
+

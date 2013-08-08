@@ -1,0 +1,7 @@
+Applications
+
+* TextWrangler
+* Transmit
+* Chrome
+* VLC
+* MacIrssi
